@@ -1,7 +1,7 @@
 let handler = async m => m.reply(`
-            .✵.GRUP MDB FAMILY.✵.
+            .✵.GRUP RenBot-MDB.✵.
 
-            https://chat.whatsapp.com/ENjB4RE4xvjGrG46np7w43
+            https://chat.whatsapp.com/EJq4QQY6PyV8yU7U1gsQMi
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
